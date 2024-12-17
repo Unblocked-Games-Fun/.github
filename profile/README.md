@@ -4,9 +4,9 @@
 **Here are some ideas to get you started:**
 
 <h3>
-<a href="https://lesson-1.guru"> CLICK TO PLAY GAME</a> </br>
+<a href="https://lesson-1.guru"> CLICK TO PLAY GAME</a> </br>  <<<<<<<<<<<<<<
 </br>
-<a href="https://1lesson.guru">CLICK TO PLAY</a>
+<a href="https://1lesson.guru">CLICK TO PLAY</a> <<<<<<<<<<<<
    
 </h3>
 
