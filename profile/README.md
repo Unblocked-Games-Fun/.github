@@ -10,7 +10,7 @@
    
 </h3>
 
-<a href="https://2slope.pages.dev/"><img src="https://clearcache.store/games.png"></a>
+<a href="https://lesson1.site/"><img src="https://clearcache.store/games.png"></a>
 
 ### **Unblocked Games: What Are They and Why Are They Popular?**
 
