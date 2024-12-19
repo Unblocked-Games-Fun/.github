@@ -10,7 +10,7 @@
    
 </h3>
 
-<a href="https://cookielessons.blog"><img src="https://clearcache.store/games.png"></a>
+<a href="https://lesson-1.guru"><img src="https://clearcache.store/games.png"></a>
 
 ### **Unblocked Games: What Are They and Why Are They Popular?**
 
@@ -37,7 +37,9 @@ If you're looking for fun unblocked games to play, here are 20 of the best optio
    - A ragdoll physics-based game where you navigate various obstacles using different characters, each with a unique vehicle.
 
 3. **Run 3**
-   - A fast-paced, endless runner set in space. Players must navigate through tunnels while avoiding gaps.
+   - A fast-paced running game where you navigate through space tunnels, avoiding gaps and obstacles.
+Genre: Platformer, Endless Runner
+Why it's great: Offers tons of levels, smooth controls, and increasing difficulty.
 
 4. **Tetris**
    - The classic puzzle game where you fit falling shapes into a grid. It's one of the most popular unblocked games of all time.
@@ -49,10 +51,14 @@ If you're looking for fun unblocked games to play, here are 20 of the best optio
    - A platform fighter featuring characters from various franchises, offering a fun multiplayer experience.
 
 7. **2048**
-   - A tile-sliding puzzle game where the goal is to combine matching tiles to reach the value of 2048.
+   - A classic puzzle game where you combine numbered tiles to reach the number 2048.
+Genre: Puzzle, Strategy
+Why it's great: Addictive, simple, and fun to play in short bursts.
 
 8. **Google Chrome Dino**
-   - An offline game that activates in Google Chrome when there’s no internet connection. It’s a simple dinosaur running game.
+   - This is the offline game that appears when you're disconnected from the internet on Google Chrome. It's a simple, fun game where you control a dinosaur and jump over obstacles.
+Genre: Arcade, Endless Runner
+Why it's great: It's easy to play with just a keyboard and doesn't require an internet connection.
 
 9. **Flappy Bird**
    - A simple but highly addictive game where you tap to keep a bird flying while avoiding obstacles.
@@ -89,6 +95,11 @@ If you're looking for fun unblocked games to play, here are 20 of the best optio
 
 20. **World’s Biggest Pac-Man**
     - A multiplayer version of Pac-Man, featuring a much larger maze where players work together to clear it of all dots.
+      
+21. **Super Mario Bros Crossover**
+A fan-made version of Super Mario Bros that allows you to play with characters from other classic video games, like Link, Samus, and Mega Man.
+Genre: Platformer, Action
+Why it's great: Nostalgic and creative, bringing in characters from various games.
 
 ### **Conclusion**
 
